@@ -1,4 +1,3 @@
 Day5
-asdasdasd;"cmVmdGtuOjAxOjE3NTgz
-#######NjA2MzI6NEVlYll2V0wxUFBDZ1
-#######RtZWljd1pwcEc3dmts"
+https://openshift1620ss.jfrog.io/ui/get_started
+docker pull openshift1620ss.jfrog.io/docker-trial/<DOCKER_IMAGE>:<DOCKER_TAG>
